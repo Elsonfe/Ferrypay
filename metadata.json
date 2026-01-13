@@ -1,0 +1,7 @@
+{
+  "name": "Ferrypay - Gestão de Construção Naval",
+  "description": "Sistema moderno para gestão financeira e operacional de construção de balsas e ferry boats, permitindo acompanhamento remoto e controle de custos entre empregador e empreiteiro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
